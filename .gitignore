@@ -2,10 +2,10 @@
 *.laccdb
 *.ldb
 ~$*
-Thumbs.db
-Desktop.ini
 
 # OS files
+Thumbs.db
+Desktop.ini
 .DS_Store
 
 # Backup files
