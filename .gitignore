@@ -1,0 +1,13 @@
+# Windows / Access temporary files
+*.laccdb
+*.ldb
+~$*
+Thumbs.db
+Desktop.ini
+
+# OS files
+.DS_Store
+
+# Backup files
+*.bak
+*.tmp
